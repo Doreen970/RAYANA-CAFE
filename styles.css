@@ -1,0 +1,62 @@
+h1, h2, p {
+    text-align: center;
+}
+body {
+    background-image: url("may.jpg");
+    font-family: sans-serif;
+    padding: 20px;
+}
+.menu {
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    max-width: 500px;
+}
+.flavor, .dessert {
+    text-align: left;
+    width: 75%;
+}
+.price {
+    text-align: right;
+    width: 25%;
+}
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 19px;
+}
+h1, h2, h3 {
+    font-family: Impact;
+}
+.open {
+    font-style: italic;
+}
+hr {
+    height: 2px;
+    background-color: maroon;
+    border-color: maroon;
+}
+.bottom {
+    margin-top: 24px;
+}
+footer {
+    font-size: 15px;
+}
+a:hover {
+    color: maroon;
+}
+a:active {
+    color: white;
+}
+h1 {
+    margin-bottom: 15px;
+    margin-top: 0;
+    font-size: 38px; 
+}
+    
